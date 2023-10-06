@@ -1,0 +1,1 @@
+# Addis-amharic-OCR
