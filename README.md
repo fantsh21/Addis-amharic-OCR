@@ -1,1 +1,2 @@
-# Addis-amharic-OCR
+# AMH_OCR
+amharic ocr by using tesseract
